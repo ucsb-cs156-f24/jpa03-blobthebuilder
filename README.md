@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# jpa03-blobthebuilder
 
 Running at: <https://jpa03-blobthebuilder.dokku-11.cs.ucsb.edu>
 
